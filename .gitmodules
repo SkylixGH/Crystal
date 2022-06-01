@@ -1,0 +1,3 @@
+[submodule "Externals/torvalds/linux"]
+	path = Externals/torvalds/linux
+	url = https://github.com/torvalds/linux.git
